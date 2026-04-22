@@ -1,4 +1,4 @@
-# 📊 CodeAlpha_UnemploymentAnalysis
+# 📊 CodeAlpha_Unemployment_Analysis
 
 A data analysis project on unemployment in India from May 2019 to Nov 2020 using Python.
 
