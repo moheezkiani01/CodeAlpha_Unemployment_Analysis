@@ -23,15 +23,8 @@ To analyze unemployment rate trends and investigate the impact of COVID-19 on jo
 - Urban job programs and rural employment diversification
 - Skilling initiatives for MSMEs and digital roles
 
-## 📂 Files
-| Folder      | Description                              |
-|-------------|------------------------------------------|
-| `data/`     | Cleaned CSV dataset                      |
-| `notebook/` | Jupyter notebook with full analysis      |
-| `reports/`  | 1-page policy/summary PDF report         |
-| `visuals/`  | Optional: graphs, screenshots, thumbnails|
 
 ## ✍️ Author
-**Abdulhameed Abdulfatai**  
-Junior Data Analyst | ALX AICE Graduate  
-[GitHub Profile](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/Abdulhameed001)
+**Moheez Azam Kiani**  
+Data scientist 
+[GitHub Profile](https://github.com/your-username) • [LinkedIn](https://www.linkedin.com/in/moheez-kiani-816980352/)
